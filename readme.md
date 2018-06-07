@@ -31,7 +31,10 @@ phpstorm 上可以使用 phpcs 来规范自己的代码风格, 然后, 我就看
 ## 版本约定
 
 Laravel 5.5.*
+
 PHP ^7.1.3
+
 MySQL 5.7.*
+
 Nginx *
 
